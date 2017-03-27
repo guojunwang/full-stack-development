@@ -3,6 +3,8 @@
 
 一共四讲。
 
+目录分类：automated-build-tools：自动化构建工具
+
 ## 第一讲：[前端开发的历史和趋势](./docs/history.md)
 
 1. 前端开发的历史演变
@@ -11,7 +13,7 @@
 4. 全栈工程师
 5. 前端开发的未来
 
-## 第二讲：[React 技术栈](./docs/react.md)
+## 第二讲：[React 技术栈](./docs/soft-install-config/webpack-install.md)
 
 1. React 的基本用法
 2. React 应用的架构
@@ -30,8 +32,7 @@
 1. 功能测试
 1. 持续集成服务 Travis CI
 
-## License
 
-GPL v3
+
 
 
